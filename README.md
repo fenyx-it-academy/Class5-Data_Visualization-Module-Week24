@@ -1,4 +1,4 @@
-# Class5-Data_Manipulation-Module-Week24
+# Class5-Data_Visualization-Module-Week24
 
 ## This is the continuation of the homework autoscout project
 ## Generate graphs using the methods of the seaborn and matplotlib libraries to the questions below
